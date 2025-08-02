@@ -54,6 +54,7 @@ public class Randumb {
 
         if (event.getTabKey() == CreativeModeTabs.FOOD_AND_DRINKS) {
             event.accept(ModItems.WEETBIX);
+            event.accept(ModItems.BOWL_OF_WEETBIX);
         }
 
     }
